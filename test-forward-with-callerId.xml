@@ -1,5 +1,0 @@
-<Response>
-    <Dial record="true" callerId="17868641868" >
-        <Number answerOnBridge="true" statusCallback="https://dev.vibtree.com/api/webhook/vibconnect/line_forwarding" statusCallbackEvent="initiated, ringing, answered, completed" statusCallbackMethod="POST">18324008915</Number>
-    </Dial>
-</Response>
