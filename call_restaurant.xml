@@ -1,5 +1,8 @@
 <Response>
 <Play>https://danish-asghar2909.github.io/mp3.xml/sample_final.mp3</Play>
-<Dial record="true">918929238670</Dial>
-<Dial record="true">918929238671</Dial>
+<Dial record="true" timeout="15" >918929238670</Dial>
+<Dial record="true" timeout="15" >918929238671</Dial>
+<Dial record="true" timeout="15" >01145152266</Dial>
+<Dial record="true" timeout="15" >01145152267</Dial>
+<Dial record="true">01145152268</Dial>
 </Response>
