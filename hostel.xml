@@ -1,6 +1,0 @@
-<Response>
-<Play loop="1">https://danish-asghar2909.github.io/mp3.xml/alpine-new.mp3</Play>
-<Dial record="true" timeout="15">916397873573</Dial>
-<Dial record="true" timeout="15">919671671055</Dial>
-<Dial record="true">916396955257</Dial>
-</Response>
