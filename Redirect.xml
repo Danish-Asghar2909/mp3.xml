@@ -1,0 +1,4 @@
+<Response>
+<Play>https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/Ozora_loyalty-points.mp3</Play>
+<Redirect method="POST" >https://danish-asghar2909.github.io/mp3.xml/CustomerSong.xml</Redirect>
+</Response>
