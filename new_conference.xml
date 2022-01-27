@@ -1,0 +1,5 @@
+<Response>
+  <Dial>
+    <Conference waitUrl="">Room_12345</Conference>
+  </Dial>
+</Response>
