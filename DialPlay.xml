@@ -1,0 +1,6 @@
+<Response>
+	<Dial>
+	 <Conference waitUrl="https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/3.mp3">Room_1234</Conference>
+	</Dial>
+	<Play>https://ivraudiofiles.s3.eu-central-1.amazonaws.com/public/sorry_conference.mp3</Play>
+</Response>
