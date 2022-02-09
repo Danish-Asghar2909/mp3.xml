@@ -1,0 +1,6 @@
+<Response>
+	<Dial action="https://dev.vibtree.com/api/action/1_choose_913368110824_61dfc7fe171c230e448d5664_1_1" method="GET">
+		<Conference waitUrl="https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/3.mp3">
+			Room_1234</Conference>
+	</Dial>
+</Response>
