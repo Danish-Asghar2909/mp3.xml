@@ -1,0 +1,5 @@
+<Response>
+<Dial answerOnBridge="true" record="true">
+<Number statusCallback="https://dataneuronbackend.herokuapp.com/subscribers" statusCallbackEvent="initiated, ringing, answered, completed" statusCallbackMethod="POST">918100409205</Number>
+</Dial>
+</Response>
