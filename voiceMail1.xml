@@ -1,0 +1,13 @@
+<Response>
+    <Say>
+        Please leave a message at the beep. 
+        Press the star key when finished. 
+    </Say>
+    <Record 
+        action="https://dataneuronbackend.herokuapp.com/subscribers"
+        method="GET" 
+        maxLength="20"
+        finishOnKey="*"
+        />
+    <Say>I did not receive a recording</Say>
+</Response>
