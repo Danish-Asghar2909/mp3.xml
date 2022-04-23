@@ -1,0 +1,5 @@
+<Response>
+<Play digits="wwww3">https://vibtreedan.s3.eu-central-1.amazonaws.com/public/2022-03-23T15%3A12%3A24.548Z_4%20%281%29.mp3</Play>
+<Pause length="1"/>
+<Redirect method="GET">https://dev.vibtree.com/api/ivrstudios/convert/625e912e395b6d7be565f9bd/bba43/84840</Redirect>
+</Response>
