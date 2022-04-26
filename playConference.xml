@@ -1,0 +1,6 @@
+<Response>
+<Play>https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/Ozora_loyalty-points.mp3</Play>
+<Dial>
+<Conference>Room_1234</Conference>
+</Dial>
+</Response>
