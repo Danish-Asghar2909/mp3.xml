@@ -1,0 +1,5 @@
+<Response>
+<Dial callerId='+912235316003'>
+<Conference>Room_1234</Conference>
+</Dial>
+</Response>
