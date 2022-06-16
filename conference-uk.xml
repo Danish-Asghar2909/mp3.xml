@@ -1,5 +1,5 @@
 <Response>
-    <Dial callerId="442039121282">
+    <Dial>
         <Conference waitUrl="https://vibtreedan.s3.eu-central-1.amazonaws.com/public/2022-06-16T13%3A40%3A20.708Z_moh.mp3" statusCallback="https://meta-testing-phase-1.herokuapp.com/subscribers" statusCallbackEvent="start end join leave mute hold">Room_12345</Conference>
     </Dial>
 </Response>
