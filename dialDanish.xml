@@ -1,0 +1,5 @@
+<Response>
+<Dial record="true" answerOnBridge="true">
+<Number statusCallback="https://meta-testing-phase-1.herokuapp.com/subscribers" statusCallbackEvent="initiated, ringing, answered, completed" statusCallbackMethod="POST">918100409205</Number>
+</Dial>
+</Response>
