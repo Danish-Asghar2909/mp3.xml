@@ -1,5 +1,0 @@
-<Response>
-<Gather url="https://danish-asghar2909.github.io/mp3.xml/stepFivePlayGather.xml" method="GET" numDigits="1">
-<Play>https://danish-asghar2909.github.io/mp3.xml/new%20launched%20products%20-%20Gather.mp3</Play>
-</Gather>
-</Response>
