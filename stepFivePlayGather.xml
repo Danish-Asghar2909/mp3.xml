@@ -1,6 +1,0 @@
-<Response>
-<Play>https://danish-asghar2909.github.io/mp3.xml/For%20Other%20Suggestion%20plz%20record%20-%20Record.mp3</Play>
-<Record recordingStatusCallback="https://meta-testing-phase-1.herokuapp.com/subscribers" maxLength="20" finishOnKey="*"/>
-<Play>https://danish-asghar2909.github.io/mp3.xml/Appreciate%20your%20time%20%26%20Thank%20You%20-%20Play%20Audio.mp3</Play>
-<Hangup/>
-</Response>
