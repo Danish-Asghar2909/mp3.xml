@@ -1,0 +1,4 @@
+<Response>
+<Play>https://danish-asghar2909.github.io/mp3.xml/Thank%20You%20for%20oredering%20%26%20Help%20us%20serve%20-%20Play%20audio.mp3</Play>
+<Redirect method="GET" >https://danish-asghar2909.github.io/mp3.xml/stepTwoPlayGather.xml</Redirect>
+</Response>
