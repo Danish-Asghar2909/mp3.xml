@@ -1,4 +1,3 @@
 <Response>
-<Record recordingStatusCallback="https://meta-testing-phase-1.herokuapp.com/subscribers" maxLength="20" finishOnKey="*"/>
-<Redirect method="GET" >https://danish-asghar2909.github.io/mp3.xml/stepSevenPlayGather.xml</Redirect>
+<Record action="https://danish-asghar2909.github.io/mp3.xml/stepSevenPlayGather.xml" method="GET" recordingStatusCallback="https://meta-testing-phase-1.herokuapp.com/subscribers" maxLength="20" finishOnKey="*"/>
 </Response>
