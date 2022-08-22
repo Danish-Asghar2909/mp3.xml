@@ -1,0 +1,5 @@
+<Response>
+<Dial action="https://meta-testing-phase-1.herokuapp.com/subscribers" method="GET">
+<Conference waitUrl="https://vibtreedan.s3.eu-central-1.amazonaws.com/public/2022-08-09T07%3A33%3A05.206Z_undefinedFkDyJsZ.mp3" statusCallback="https://app.vibtree.com/api/webhook/vibconnect/conference" statusCallbackEvent="start end join leave mute hold">Room_1234</Conference>
+</Dial>
+</Response>
