@@ -1,5 +1,5 @@
 <Response>
   <Dial>
-    <Conference waitUrl="https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/3.mp3" statusCallback="https://meta-testing-phase-1.herokuapp.com/subscribers" statusCallbackEvent="start end join leave mute hold" >Room_1234</Conference>
+    <Conference waitUrl="https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/3.mp3" statusCallback="https://vibtree-webhok.herokuapp.com/subscribers" statusCallbackEvent="start end join leave mute hold" >Room_1234</Conference>
   </Dial>
 </Response>
