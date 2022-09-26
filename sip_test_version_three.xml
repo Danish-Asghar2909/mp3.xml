@@ -1,0 +1,5 @@
+<Response>
+    <Dial record="true" answerOnBridge="true" callerId="12815016074">
+        <Number statusCallback="https://app.vibtree.com/api/webhooks/vibconnect/cp/phone" statusCallbackEvent="initiated, ringing, answered, completed" statusCallbackMethod="POST">sip:vib1661790225247@phone.vibconnect.io</Number>
+    </Dial>
+</Response>
