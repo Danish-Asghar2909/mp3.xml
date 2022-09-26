@@ -1,0 +1,5 @@
+<Response>
+    <Dial>
+        <Sip>sip:vib1661790225247@phone.vibconnect.io?SipHeader_X-rc-proto=tcp&SipHeader_X-ser=sip%3Avib1661790225247%40phone.vibconnect.io</Sip>
+    </Dial>
+</Response>
