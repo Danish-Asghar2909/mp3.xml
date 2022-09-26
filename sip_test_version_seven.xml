@@ -1,0 +1,5 @@
+<Response>
+    <Dial>
+        <Sip username="vib1661790225247" password="Vibtree@123" >sip:vib1661790225247@phone.vibconnect.io</Sip>
+    </Dial>
+</Response>
