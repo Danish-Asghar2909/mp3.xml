@@ -1,3 +1,3 @@
 <Response>
-    <Dial record="true" answerOnBridge="true" callerId="16038103821">sip:vib1668415107089@phone.vibconnect.io</Dial>
+    <Dial record="true" answerOnBridge="true">sip:vib1668415107089@phone.vibconnect.io</Dial>
 </Response>
